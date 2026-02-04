@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100mm"
+   height="500mm"
+   viewBox="0 0 1100 500"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <pattern
+       xlink:href="#pattern8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,850.59128,145)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8" />
+    </pattern>
+    <pattern
+       xlink:href="#pattern8-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-2"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,850.76769,280.00003)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8-4">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8-5" />
+    </pattern>
+    <pattern
+       xlink:href="#pattern8-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-1"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,370.76395,140.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8-5">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8-2" />
+    </pattern>
+    <pattern
+       xlink:href="#pattern8-5-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-1-2"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,370.63391,283.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8-5-3">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8-2-2" />
+    </pattern>
+    <pattern
+       xlink:href="#pattern8-5-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-1-5"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,90.49997,140.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8-5-7">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8-2-6" />
+    </pattern>
+    <pattern
+       xlink:href="#pattern8-5-7-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern1-1-5-7"
+       patternTransform="matrix(0.3870756,0,0,0.38985955,90.816977,286.00001)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="99"
+       height="66"
+       patternTransform="translate(1035.1638,408.20137)"
+       preserveAspectRatio="xMidYMid"
+       id="pattern8-5-7-9">
+      <path
+         d="M 25.563,1 H 74.091 V 27.689 H 98 V 38.444 H 74.091 V 65 H 25.563 V 38.444 H 1 V 27.689 h 24.563 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#156082"
+         fill-rule="evenodd"
+         id="path8-2-6-5" />
+    </pattern>
+  </defs>
+  <rect
+     style="fill:#a05a2c;stroke-width:0.064862"
+     id="VirolaLigera1"
+     width="40"
+     height="110"
+     x="10"
+     y="170" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.064862"
+     id="VirolaSemiPesada1_1"
+     width="40"
+     height="110"
+     x="50"
+     y="170" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.064862"
+     id="VirolaPesada1"
+     width="40"
+     height="110"
+     x="90"
+     y="170" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.064862"
+     id="VirolaSemiPesada1_2"
+     width="40"
+     height="110"
+     x="130"
+     y="170" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0647143"
+     id="VirolaLigera2"
+     width="40"
+     height="109.5"
+     x="170"
+     y="170.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0645666"
+     id="VirolaLigera3"
+     width="40"
+     height="109"
+     x="210"
+     y="170.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0644182"
+     id="VirolaLigera4"
+     width="40"
+     height="108.5"
+     x="250"
+     y="170.75" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0642697"
+     id="VirolaLigera5"
+     width="40"
+     height="108"
+     x="290"
+     y="171" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0641207"
+     id="VirolaSemiPesada2_1"
+     width="40"
+     height="107.5"
+     x="330"
+     y="171.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0630682"
+     id="VirolaLigera10"
+     width="40"
+     height="104"
+     x="610"
+     y="173" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0629164"
+     id="VirolaLigera11"
+     width="40"
+     height="103.5"
+     x="649.99994"
+     y="173.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0627643"
+     id="VirolaLigera12"
+     width="40"
+     height="103"
+     x="689.99994"
+     y="173.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0626118"
+     id="VirolaCorona"
+     width="40"
+     height="102.5"
+     x="729.99994"
+     y="173.75" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0624589"
+     id="VirolaLigera13"
+     width="40"
+     height="102"
+     x="770"
+     y="174" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0623056"
+     id="VirolaSemiPesada3_1"
+     width="40"
+     height="101.5"
+     x="810"
+     y="174.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0621519"
+     id="VirolaPesada3"
+     width="40"
+     height="101"
+     x="850"
+     y="174.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0619979"
+     id="VirolaSemiPesada3_2"
+     width="40"
+     height="100.5"
+     x="890"
+     y="174.75" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0618435"
+     id="VirolaLigera14"
+     width="40"
+     height="100"
+     x="930"
+     y="175" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0616887"
+     id="VirolaLigera15"
+     width="40"
+     height="99.5"
+     x="970"
+     y="175.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0615335"
+     id="VirolaLigera16"
+     width="40"
+     height="99"
+     x="1009.7012"
+     y="175.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0639714"
+     id="VirolaPesada2"
+     width="40"
+     height="107"
+     x="370"
+     y="171.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0638218"
+     id="VirolaSemiPesada2_2"
+     width="40"
+     height="106.5"
+     x="410"
+     y="171.75" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0636718"
+     id="VirolaLigera6"
+     width="40"
+     height="106"
+     x="450"
+     y="172" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0635214"
+     id="VirolaLigera7"
+     width="40"
+     height="105.5"
+     x="490.00003"
+     y="172.25" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0633707"
+     id="VirolaLigera8"
+     width="40"
+     height="105"
+     x="530"
+     y="172.5" />
+  <rect
+     style="fill:#a05a2c;stroke-width:0.0632197"
+     id="VirolaLigera9"
+     width="40"
+     height="104.5"
+     x="570"
+     y="172.75" />
+  <rect
+     style="fill:#28170b;stroke-width:0.0483014"
+     id="Llanta1"
+     width="20"
+     height="122"
+     x="100"
+     y="165" />
+  <rect
+     style="fill:#28170b;stroke-width:0.0477037"
+     id="Llanta2"
+     width="20"
+     height="119"
+     x="380"
+     y="165" />
+  <rect
+     style="fill:#28170b;stroke-width:0.0458644"
+     id="Llanta3"
+     width="20"
+     height="110"
+     x="860"
+     y="170" />
+  <rect
+     style="fill:#999999;stroke-width:0.0460724"
+     width="20"
+     height="111"
+     x="740"
+     y="170"
+     id="Corona" />
+  <rect
+     style="fill:#808080;stroke-width:0.0550555"
+     id="Pinon"
+     width="21.181"
+     height="30"
+     x="739.5"
+     y="140" />
+  <rect
+     style="fill:url(#pattern1);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="850.59131"
+     y="145"
+     id="Rod_izq_base3" />
+  <rect
+     style="fill:url(#pattern1-1);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="370.76401"
+     y="140"
+     id="Rod_izq_base2" />
+  <rect
+     style="fill:url(#pattern1-1-5);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="90.5"
+     y="140"
+     id="Rod_izq_base1" />
+  <rect
+     style="fill:url(#pattern1-1-5-7);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="90.817001"
+     y="286"
+     id="Rod_der_base1" />
+  <rect
+     style="fill:url(#pattern1-1-2);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="370.634"
+     y="283"
+     id="Rod_der_base2" />
+  <rect
+     style="fill:url(#pattern1-2);stroke:none;stroke-width:0.388464"
+     width="38.320484"
+     height="25.730728"
+     x="850.7677"
+     y="280"
+     id="Rod_der_base3" />
+</svg>
