@@ -58,7 +58,7 @@
        xlink:href="#pattern8-5"
        preserveAspectRatio="xMidYMid"
        id="pattern1-1"
-       patternTransform="matrix(0.3870756,0,0,0.38985955,370.76395,140.00001)" />
+       patternTransform="matrix(0.3870756,0,0,0.38985955,373.70376,108.397)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="99"
@@ -79,7 +79,7 @@
        xlink:href="#pattern8-5-3"
        preserveAspectRatio="xMidYMid"
        id="pattern1-1-2"
-       patternTransform="matrix(0.3870756,0,0,0.38985955,370.63391,283.00001)" />
+       patternTransform="matrix(0.3870756,0,0,0.38985955,371.36886,342.53126)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="99"
@@ -350,52 +350,52 @@
      y="170"
      id="Corona" />
   <rect
-     style="fill:#808080;stroke-width:0.0550555"
+     style="fill:#808080;stroke-width:0.0493665"
      id="Pinon"
      width="21.181"
-     height="30"
+     height="24.120371"
      x="739.5"
-     y="140" />
+     y="145.87962" />
   <rect
-     style="fill:url(#pattern1);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="850.59131"
-     y="145"
-     id="Rod_izq_base3" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_izq_base1"
+     width="26.864"
+     height="28.984573"
+     x="96.497429"
+     y="137.14653" />
   <rect
-     style="fill:url(#pattern1-1);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="370.76401"
-     y="140"
-     id="Rod_izq_base2" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_izq_base2"
+     width="26.864"
+     height="28.984573"
+     x="376.00095"
+     y="136.78958" />
   <rect
-     style="fill:url(#pattern1-1-5);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="90.5"
-     y="140"
-     id="Rod_izq_base1" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_izq_base3"
+     width="26.864"
+     height="28.984573"
+     x="855.60297"
+     y="141.2287" />
   <rect
-     style="fill:url(#pattern1-1-5-7);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="90.817001"
-     y="286"
-     id="Rod_der_base1" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_der_base1"
+     width="26.864"
+     height="28.984573"
+     x="96.140945"
+     y="286.21039" />
   <rect
-     style="fill:url(#pattern1-1-2);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="370.634"
-     y="283"
-     id="Rod_der_base2" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_der_base2"
+     width="26.864"
+     height="28.984573"
+     x="376.73865"
+     y="283.87128" />
   <rect
-     style="fill:url(#pattern1-2);stroke:none;stroke-width:0.388464"
-     width="38.320484"
-     height="25.730728"
-     x="850.7677"
-     y="280"
-     id="Rod_der_base3" />
+     style="fill:#808080;stroke-width:0.0649999"
+     id="Rod_der_base3"
+     width="26.864"
+     height="28.984573"
+     x="857.01691"
+     y="279.69745" />
 </svg>
